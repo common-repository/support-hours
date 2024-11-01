@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Support hours\n"
+"POT-Creation-Date: 2022-12-14 22:27+0100\n"
+"PO-Revision-Date: 2022-12-14 22:28+0100\n"
+"Last-Translator: \n"
+"Language-Team: Erik van der Bas <erik@basedonline.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: admin\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: admin/class-support-hours-admin.php:82
+#: admin/class-support-hours-admin.php:92
+msgid "Support Hours overview"
+msgstr "Support Hours overzicht"
+
+#: admin/class-support-hours-admin.php:83
+#: admin/class-support-hours-admin.php:222
+msgid "Support Hours"
+msgstr "Support Hours"
+
+#: admin/class-support-hours-admin.php:93
+msgid "Overview"
+msgstr "Overzicht"
+
+#: admin/class-support-hours-admin.php:101
+msgid "Support Hours settings"
+msgstr "Support Hours instellingen"
+
+#: admin/class-support-hours-admin.php:102
+#: admin/class-support-hours-admin.php:119
+msgid "Settings"
+msgstr "Instellingen"
+
+#: admin/views/common/bottom-message.php:22
+msgid "Add new activity"
+msgstr "Voeg nieuwe activiteit toe"
+
+#: admin/views/common/bottom-message.php:24
+msgid "View all activities"
+msgstr "Bekijk alle activiteiten"
+
+#: admin/views/common/bottom-message.php:30
+msgid "No activities added yet."
+msgstr "Nog geen activiteiten toegevoegd."
+
+#: admin/views/common/bottom-message.php:34
+msgid "Add first activity"
+msgstr "Voeg eerste activiteit toe"
+
+#: admin/views/common/bottom-message.php:43
+msgid "Hi"
+msgstr "Hallo"
+
+#: admin/views/common/bottom-message.php:46
+msgid "your Support Hours are used."
+msgstr "uw Support Uren zijn verbruikt."
+
+#: admin/views/common/bottom-message.php:49
+msgid "your Support Hours are almost used."
+msgstr "uw Support Uren zijn bijna verbruikt."
+
+#: admin/views/common/bottom-message.php:52
+msgid "you have plenty of hours left."
+msgstr "u heeft nog veel uren over."
+
+#: admin/views/common/bottom-message.php:56
+#: admin/views/common/notice-no-hours.php:18
+#: admin/views/common/notice-no-hours.php:19
+msgid "Order Support Hours"
+msgstr "Bestel Support Uren"
+
+#: admin/views/common/notice-configure.php:15
+msgid "Support Hours is not configured."
+msgstr "Support Hours is niet geconfigureerd."
+
+#: admin/views/common/notice-configure.php:21
+msgid "Configure plugin"
+msgstr "Plugin configureren"
+
+#: admin/views/common/notice-no-hours.php:15
+msgid "No Support Hours bought yet."
+msgstr "Nog geen Support Uren ingekocht."
+
+#: admin/views/settings/general-settings-form.php:24
+msgid "Support Hours managers"
+msgstr "Support Hours managers"
+
+#: admin/views/settings/general-settings-form.php:42
+msgid "E-mail address main Support Hours manager"
+msgstr "E-mailadres Support Hours manager"
+
+#: admin/views/settings/work-table-fields.php:22
+msgid "Time used"
+msgstr "Tijd verbruikt"
+
+#: admin/views/settings/work-table-fields.php:28
+msgid "Time added"
+msgstr "Tijd toegevoegd"
+
+#: admin/views/settings/work-table-fields.php:34
+#: admin/views/settings/work-table-form.php:25
+#: admin/views/support-hours-admin-overview.php:30
+#: admin/views/support-hours-admin-overview.php:52
+#: admin/views/support-hours-admin-overview.php:75
+#: admin/views/widget/worktable.php:31
+msgid "Date"
+msgstr "Datum"
+
+#: admin/views/settings/work-table-fields.php:39
+#: admin/views/settings/work-table-form.php:26
+#: admin/views/support-hours-admin-overview.php:31
+#: admin/views/support-hours-admin-overview.php:76
+#: admin/views/widget/worktable.php:32
+msgid "Time"
+msgstr "Tijd"
+
+#: admin/views/settings/work-table-fields.php:44
+#: admin/views/settings/work-table-form.php:27
+#: admin/views/support-hours-admin-overview.php:32
+#: admin/views/support-hours-admin-overview.php:62
+#: admin/views/support-hours-admin-overview.php:77
+#: admin/views/widget/worktable.php:33
+msgid "Description"
+msgstr "Beschrijving"
+
+#: admin/views/settings/work-table-fields.php:46
+msgid "Description of the activity"
+msgstr "Beschrijving van de activiteit"
+
+#: admin/views/settings/work-table-form.php:24
+msgid "Type"
+msgstr "Type"
+
+#: admin/views/settings/work-table-form.php:47
+msgid "Activities will be sorted by date on save"
+msgstr "Activiteiten worden gesorteerd op datum tijdens het bijwerken"
+
+#: admin/views/settings/work-table-form.php:49
+msgid "Add activity"
+msgstr "Voeg activiteit toe"
+
+#: admin/views/settings/work-table-form.php:51
+msgid "Save"
+msgstr "Bijwerken"
+
+#: admin/views/support-hours-admin-overview.php:22
+msgid "A complete overview of all activities."
+msgstr "Een compleet overzicht van alle activiteiten."
+
+#: admin/views/support-hours-admin-overview.php:84
+#: admin/views/widget/worktable.php:74
+msgid "Total"
+msgstr "Totaal"
+
+#: admin/views/support-hours-admin-settings.php:36
+msgid ""
+"You do not have access to this page because you are not a Support Hours "
+"manager. Please disable and enable the plugin to reset user access."
+msgstr ""
+"U heeft geen toegang tot deze pagina omdat u geen Support Hours manager "
+"bent. Deactiveer en activeer de plugin om weer toegang te krijgen."
+
+#: admin/views/widget/widget-clock.php:37
+msgid "hours"
+msgstr "uur"
+
+#: admin/views/widget/widget-clock.php:39
+msgid "used"
+msgstr "verbruikt"
+
+#: admin/views/widget/worktable.php:22
+msgid "Last five activities:"
+msgstr "Laatste vijf activiteiten:"
+
+#~ msgid "Activities:"
+#~ msgstr "Activiteiten:"
+
+#~ msgid "E-mail"
+#~ msgstr "E-mail"
+
+#~ msgid "Update of Support Hours complete, please refresh page"
+#~ msgstr "Update van Support Hours compleet, ververs de pagina"
+
+#~ msgid "First bought time - added by Support Hours"
+#~ msgstr "Eerste ingekochte tijd - toegevoegd door Support Hours"
+
+#~ msgid "Save all changes"
+#~ msgstr "Bijwerken"
+
+#~ msgid "Contact me via"
+#~ msgstr "Neem contact op met mij via"
+
+#~ msgid "E-Mail adress main Support Hours manager"
+#~ msgstr "E-Mail adres Support Uren manager"
+
+#~ msgid ""
+#~ "Support Hours uses a new system to store hours. Do not forget to input "
+#~ "the old hours into the new system. Amount of old hours need to be set:"
+#~ msgstr ""
+#~ "Support Uren gebruikt een nieuw systeem om de uren op te slaan. Vergeet "
+#~ "niet de oude uren in te vullen in het nieuwe systeem. Het aantal uren wat "
+#~ "opnieuw opgeslagen dient te worden:"
+
+#~ msgid "Need more support hours"
+#~ msgstr "Heeft u meer support uren nodig"
+
+#~ msgid ""
+#~ "Select Support-Hour manager. Warning!  If you do not set yourself as a "
+#~ "Support Hours manager, you will loose access to this page until the "
+#~ "plugin is disabled and enabled."
+#~ msgstr ""
+#~ "Selecteer de Support-Hour manager. Waarschuwing! Als u uzelf niet "
+#~ "selecteert als Support Uren manager, dan verliest u de toegang tot deze "
+#~ "pagina totdat de plugin gedeactiveerd en opnieuw geactiveerd is."
+
+#~ msgid ""
+#~ "Warning! If you do not set yourself as a Support Hours manager, you will "
+#~ "loose access to this page until the plugin is disabled and enabled."
+#~ msgstr ""
+#~ "Waarschuwing! Als u uzelf niet selecteert als Support Uren manager, dan "
+#~ "verliest u de toegang tot deze pagina totdat de plugin gedeactiveerd en "
+#~ "opnieuw geactiveerd is."
+
+#, fuzzy
+#~| msgid "Total"
+#~ msgid "Total spent"
+#~ msgstr "Totaal"
+
+#~ msgid "Please enter a valid time"
+#~ msgstr "Voer een valide  tijd in"
+
+#~ msgid "Today"
+#~ msgstr "Vandaag"
+
+#~ msgid "hours used of"
+#~ msgstr "uren gebruikt van"
+
+#~ msgid "There are currently no activities logged"
+#~ msgstr "Er zijn momenteel nog geen activiteiten toegevoegd."
+
+#~ msgid "hours "
+#~ msgstr "uren"
+
+#, fuzzy
+#~| msgid "Support hours"
+#~ msgid "Support hours overview"
+#~ msgstr "Support uren"
+
+#~ msgid "Add row"
+#~ msgstr "voeg rij toe"
+
+#~ msgid "I understand. Dismiss this notice."
+#~ msgstr "Begrepen. Verwijder deze opmerking."
+
+#~ msgid ""
+#~ "Warning! If you do not set yourself as a Support Hours manager, you will "
+#~ "lose acces to this page until the plugin is disabled and enabled."
+#~ msgstr ""
+#~ "Waarschuwing! Als u uzelf niet selecteert als Support Uren manager, dan "
+#~ "verliest u de toegang tot deze pagina totdat de plugin gedeactiveerd en "
+#~ "opnieuw geactiveerd is."
+
+#~ msgid "Amount of used Support Hours"
+#~ msgstr "Aantal verbruikte Support Uren"
+
+#~ msgid "Amount of used support hours"
+#~ msgstr "Aantal gebruite support uren"
+
+#~ msgid "E-Mail adress support-hour manager"
+#~ msgstr "E-Mail adres support-uren manager"
+
+#~ msgid "Amount of bought support-hours"
+#~ msgstr "Aantal ingekochte support-uren"
+
+#~ msgid "Amount of used support-hours"
+#~ msgstr "Aantal verbruikte support-uren"
+
+#~ msgid ""
+#~ "You do not have access to this page because you are not the support-hour "
+#~ "manager. Please disable and enable this plugin if you need access again."
+#~ msgstr ""
+#~ "U heeft geen toegang tot deze pagina omdat u niet de support-uren manager "
+#~ "bent.  Deactiveer en activeer de plugin opnieuw om weer toegang te "
+#~ "krijgen tot deze pagina."
+
+#~ msgid "Support-hours used."
+#~ msgstr "Support-Uren verbruikt."
+
+#~ msgid "Support-hours almost used."
+#~ msgstr "Support-uren bijna verbruikt."
+
+#~ msgid "Need more support-hours?"
+#~ msgstr "Heeft u meer support-uren nodig?"
+
+#~ msgid "No support-hours bought"
+#~ msgstr "Geen support-uren gekocht"
+
+#~ msgid ""
+#~ "Warning! If you do not set yourself as support hour manager, you will "
+#~ "lose acces to this page until the plugin is disabled and enabled."
+#~ msgstr ""
+#~ "Waarschuwing! Als u uzelf niet selecteert als Support Uren manager "
+#~ "verliest u de toegang tot deze pagina totdat de plugin gedeactiveerd en "
+#~ "opnieuw geactiveerd is."
+
+#~ msgid "Select support-hour manager. "
+#~ msgstr "Selecteer de support-uren manager"
+
+#~ msgid ""
+#~ "Warning! If you select the wrong user, you will not have access to this "
+#~ "page until the plugin is disabled and enabled."
+#~ msgstr ""
+#~ "Waarschuwing! Al selecteert u een verkeerde gebruiker moet u de plugin "
+#~ "deactiveren en opnieuw activeren om weer toegang te krijgen tot deze "
+#~ "pagina."
+
+#~ msgid "hour"
+#~ msgstr "uur"
+
+#~ msgid ""
+#~ "Warning! If you select the wrong user, you will not have acces to this "
+#~ "page until the plugin is disabled and enabled."
+#~ msgstr ""
+#~ "Pas op! Bij het selecteren van de de verkeerde gebruiker, heeft u geen "
+#~ "toegang meer tot deze pagina"
+
+#~ msgid ""
+#~ "You do not have acces to this page because you are not the support-hour "
+#~ "manager. Please disable and enable this plugin if you need acces again."
+#~ msgstr ""
+#~ "U heeft geen toegang tot deze pagina omdat u niet de support-uren manager "
+#~ "bent. Deactiveer en activeer deze plugin als u toch toegang nodig heeft."
+
+#~ msgid "No support hours bought"
+#~ msgstr "Geen ingekochte supporturen"
+
+#~ msgid "Select support hour manager. "
+#~ msgstr "Selecteer de support-uren manager"
+
+#~ msgid "Amount of bought support hours"
+#~ msgstr "Aantal ingekochte support uren"
+
+#~ msgid ""
+#~ "You do not have acces to this page because you are not the support hour "
+#~ "manager. Please disable and enable this plugin if you need acces again."
+#~ msgstr ""
+#~ "U heeft geen toegang tot deze pagina omdat u geen support uren manager "
+#~ "bent. Schakel de plugin in en uit als u toch toegang wilt tot deze pagina."
+
+#~ msgid "not the main admin"
+#~ msgstr "Niet de hoofdadministrator"
